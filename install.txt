@@ -1,0 +1,7 @@
+http://download.eclipse.org/efxclipse/updates-released/1.2.0/site/
+
+ef(x)clipse
+e(fx)clipse
+
+JavaFx Created Folder
+C:\Users\User\AppData\Local\SceneBuilder
